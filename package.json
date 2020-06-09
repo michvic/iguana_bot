@@ -1,0 +1,23 @@
+{
+  "name": "iguana_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "enmap": "^5.2.4",
+    "fs": "0.0.1-security",
+    "moment": "^2.25.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
