@@ -3,6 +3,7 @@
 # ESTRUTURA
 
 Root => index.js
+
 folder => events, commands
 
 # GET STARTED
